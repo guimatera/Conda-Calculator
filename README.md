@@ -1,7 +1,4 @@
-# Conda-Calculator
-My first program using graphical interface (PySimpleGUI). A simple calculator.
-
-Conda_calculator instructions:
+# Conda_calculator instructions:
 Here below you'll find some instructions about the correct usage of this program. 
 Check it out:
 '%' - Calculates the percentage of any number entered.
@@ -30,4 +27,6 @@ please, clear all input box before making any further calculations).
 '2' - Enter the digit 2 on the visor.
 '3' - Enter the digit 3 on the visor.
 '=' - Shows the result of any operation chosen.
+
+
 
