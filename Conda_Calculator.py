@@ -17,7 +17,7 @@ size_buttons = 3
 class calculator:
     def __init__(self):
         # Declaring lists of button keys.
-        self.button_keys = ['VISOR','PERCENT','SQRT','ALLCLEAR','BACKSPACE','SUM','MINUS','TIMES','DIVISION','DOT','EQUAL']
+        self.button_keys = ['DISP','PERCENT','SQRT','ALLCLEAR','BACKSPACE','SUM','MINUS','TIMES','DIVISION','DOT','EQUAL']
         self.button_numbers = ['SEVEN','EIGHT','NINE','ZERO','FOUR','FIVE','SIX','ONE','TWO','THREE']
         self.number = ['7','8','9','0','4','5','6','1','2','3']
         self.button_op = self.button_keys[1:3] + self.button_keys[5:9]
