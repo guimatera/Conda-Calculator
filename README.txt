@@ -6,7 +6,7 @@ Check it out:
 (Entering a negative number and then, clicking on this button will generate
 an error message that will appear on the display.
 Please, clear all input box before making any further calculations).
-'C' - Clear all the visor. A default '0' will show up on the visor.
+'C' - Clear the display. A default '0' will show up on the display.
 '<' - Clear the last digit entered, works as a backspace.
 '+' - Calculates the sum of two numbers.
 '-' - Calculates the subtraction of two numbers.
@@ -22,7 +22,7 @@ Please, clear all input box before making any further calculations).
 '4' - Enter the digit 4 on the display.
 '5' - Enter the digit 5 on the display.
 '6' - Enter the digit 6 on the display.
-'.' - Enter the digit '.' on the displayr, splits the integer part from the decimals.
+'.' - Enter the digit '.' on the display, splits the integer part from the decimals.
 '1' - Enter the digit 1 on the display.
 '2' - Enter the digit 2 on the display.
 '3' - Enter the digit 3 on the display.
